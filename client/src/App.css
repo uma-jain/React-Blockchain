@@ -1,0 +1,36 @@
+main {
+  margin-top: 60px;
+}
+#newTask{
+  margin-bottom: 20px;
+}
+#content{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
+h5{
+  margin: 20px 0px;
+  font-size: 25px;
+}
+
+form {
+  width: 350px;
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-bottom: 0px;
+}
+.row{
+  margin-top: 50px;
+}
+#completedTaskList .content {
+  color: grey;
+  text-decoration: line-through;
+}
+
+.display-none{
+  display: none;
+}
